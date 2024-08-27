@@ -1,0 +1,2 @@
+# SafePulse
+SafePulse is a comprehensive safety application designed to monitor pulse rates and send emergency alerts in critical situations. If someone is chasing or attempting to forcefully engage with you, causing your heart rate to spike, SafePulse will automatically send alerts to your emergency contacts. The app features real-time pulse monitoring, SMS and WhatsApp alerts, and smartwatch integration. SafePulse aims to enhance personal safety and provide quick assistance when needed. It supports Android versions 7 and above, ensuring broad compatibility across devices.
